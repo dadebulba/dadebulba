@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/dadebulba/dadebulba)](https://badges.pufler.dev)
 
-#### I'm a Web Developer based in Mantua (IT :italy:) with passion for Innovation :rocket: and Machine Learning :robot:
+#### I'm a Web Developer based in Mantua (IT) with passion for Innovation :rocket: and Machine Learning :robot:
 
 - :office: I’m currently working at [AliasLab](https://www.aliaslab.net) 
 - 👨‍💻 I have experience with Angular, NodeJS and Tensorflow
