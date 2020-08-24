@@ -8,5 +8,3 @@
 - 📚 I'm currently attending a MSc in Computer Science
 - 🏆 I partecipated at various Hackathons
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/davide-bulbarelli-2247ba122/)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dadebulba.dadebulba)
