@@ -7,9 +7,9 @@
 [![Davide Bulbarelli StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8128004&layout=compact&theme=dark)](https://stackoverflow.com/users/8128004/davide-bulbarelli)
 
 #### Something about me
-- :office: I’m currently working at [AliasLab](https://www.aliaslab.net) 
-- 👨‍💻 I have experience with Angular, NodeJS and Tensorflow
+- :office: I’m currently working at [Smartpricing](https://www.smartpricing.it) 
+- 👨‍💻 I have experience with NodeJS, Vue and Angular
 - 🛠 My skills are teamwork, organization and a little of entrepreneurship
-- 📚 I'm currently attending a MSc in Computer Science
+- 📚 I have a MSc degree in Computer Science
 - 🏆 I partecipated at various Hackathons
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/davide-bulbarelli-2247ba122/)
