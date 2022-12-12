@@ -1,6 +1,6 @@
 ### Hi there, I'm Davide 👋
 
-#### I'm a Web Developer based in Mantua (IT) with passion for Innovation :rocket: and Machine Learning :robot:
+#### I'm a Full Stack Developer based in Mantua (IT) with passion for Innovation :rocket: and Machine Learning :robot:
 
 <img align="left" alt="StackOverflow Logo" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.png?v=c78bd457575a" width="70">
 
